@@ -1,0 +1,12 @@
+
+.title_main {
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    background-color: burlywood;
+}
+
+.titles {
+    background-color: aqua;
+    text-align: end;
+}

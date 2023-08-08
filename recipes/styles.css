@@ -1,0 +1,42 @@
+body {
+    background-color: burlywood;
+}
+
+.chicken {
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: red;
+    background-color: bisque;
+}
+
+ul {
+    margin: 20px;
+    background-color: beige;
+}
+
+ol {
+    margin: 20px;
+    background-color: beige;
+}
+
+.potato {
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+.lasagna {
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
